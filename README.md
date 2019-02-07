@@ -32,3 +32,7 @@ Beware, the app will crash until you add a media file in the raw folder and edit
 
 **mediaplayerResourceId = R.raw.ubuntu;//// Add a different audio file to make it work**
 
+
+
+
+**Tested on** Android 6.0.1,API 23
