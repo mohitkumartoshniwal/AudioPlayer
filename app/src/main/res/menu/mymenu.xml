@@ -1,0 +1,12 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/mybutton"
+        android:title="@string/playback"
+        app:showAsAction="always"
+        android:icon="@mipmap/icon"
+
+        />
+</menu>

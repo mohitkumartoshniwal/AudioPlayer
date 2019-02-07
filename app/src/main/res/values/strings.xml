@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Audio Player</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="backward"><![CDATA[<<]]></string>
+    <string name="forward1">Go Forward</string>
+    <string name="backward1">Go Backward</string>
+    <string name="playback">Change your playback speed</string>
+    <string name="notes">Notes</string>
+    <string name="notes1">Start taking notes One click to start and one more to stop</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmark1">Click to bookmark</string>
+    <string name="noteslist">NotesList</string>
+    <string name="bookmarklist">BookmarksList</string>
+    <string name="seektopos"></string>
+    <string name="pick_speed">Select one of the below Playback Speed</string>
+    <string-array name="speed_array">
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
